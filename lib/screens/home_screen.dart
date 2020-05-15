@@ -34,9 +34,9 @@ class HomeScreen extends StatelessWidget {
                       text: TextSpan(
                         style: Theme.of(context).textTheme.display1,
                         children: [
-                          TextSpan(text: "What are you \nreading "),
+                          TextSpan(text: "¿Que quieres leer \n "),
                           TextSpan(
-                              text: "today?",
+                              text: "En esta ocasión?",
                               style: TextStyle(
                                 fontWeight: FontWeight.bold,
                               ))
