@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
                         children: [
                           TextSpan(text: "¿Que quieres leer \n "),
                           TextSpan(
-                              text: "En esta ocasión?",
+                              text: "hoy?",
                               style: TextStyle(
                                 fontWeight: FontWeight.bold,
                               ))
